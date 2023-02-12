@@ -4,9 +4,30 @@
 
 // Typography
 
+
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  font-family: 'Libre Baskerville', serif;
+  line-height: 1.75;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--global-title-color);
+}
+
+h1 {
+ font-size: 2rem
+}
+
+h2 {
+  font-size: 1.25rem
+}
+
+h3 {
+  font-size: 1.125rem
+}
+
 
 hr {
   border-top: 1px solid var(--global-divider-color);
@@ -114,7 +135,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 55%;
     .address {
       p { display: block; }
     }
@@ -172,17 +193,17 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-navbar-color);
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-text-color);
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bolder;
-      color: var(--global-theme-color);
+      color: var(--global-navbar-color);
       &:hover {
-        color: var(--global-hover-color);
+        color: var(--global-text-color);
       }
   }
   .navbar-brand.social {
@@ -250,13 +271,19 @@ blockquote {
 
 // Social (bottom)
 
+@media (min-width: 768px) {
+  .social {
+    margin-top: -48px;
+  }
+}  
+
 .social {
-  text-align: center;
+  text-align: left;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.25rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-navbar-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
@@ -581,13 +608,13 @@ footer.sticky-bottom {
         transition: all 0.15s ease;
 
         p {
-          line-height: 1.4em;
+          line-height: 1.5em;
           margin: 10px;
         }
         pre {
           font-size: 1em;
-          line-height: 1.4em;
-          padding: 10px;
+          line-height: 1.5em;
+          padding: 12px;
         }
       }
       .hidden.open {
