@@ -13,17 +13,17 @@ Jules is co-convenor of the Centre for Film and Screen’s Research Seminars at 
 
 ## Upcoming talks
 
-* ‘Overlooked: The Hotel as Narrative Scaffold' (panel on Hotel Cosmopolitan), ACLA, Chicago March 2023.
-
-* I Can’t Sleep, or Nocturnal Ruminations on Cinema’s Hotels', (panel on Space and Place), Society for Cinema and Media Studies, Denver, 12 April 2023.
-
-* 'French Queer Cinema and the Right to the City', invited lecture at Centre for Visual Cultures, Royal Holloway, 26 April 2023.
-
-* 'Urban ecologies of the Bois de Boulogue in queer film and photography', Society for French Studies, Newcastle, June 2023.
+* Postcolonial Hospitality, Hotel Work, and Claire Denis' Paris, 11 October 2023. [Modern French Research Seminar, Cambridge](https://www.mmll.cam.ac.uk/french/mfrs).
 
 ---
 
 ## Past events
+
+* Invited lecture at Centre for Visual Cultures, Royal Holloway, 26 April 2023. [video recording here](https://youtu.be/WzI4VZarNp4?si=QixfeSSonK0a05-3&t=571)
+
+* I Can’t Sleep, or Nocturnal Ruminations on Cinema’s Hotels', (panel on Space and Place), Society for Cinema and Media Studies, Denver, 12 April 2023.
+
+* ‘Overlooked: The Hotel as Narrative Scaffold' (panel on Hotel Cosmopolitan), ACLA, Chicago March 2023.
 
 * ‘Notes on Cinema’s Hotels’, St John’s College Pre-Dinner Lecture Series, Cambridge, 22 November 2022.
 

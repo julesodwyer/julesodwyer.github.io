@@ -9,13 +9,15 @@ nav_order: 5
 
 Jules has previously contributed to undergraduate and/or graduate courses on the following topics:
 
-* European Cinema (Comparative Studies)
-
-* The Body (Comparative Studies)
+* Introduction to European Cinema (Comparative Studies)
 
 * Introduction to French Literature, Linguistics, Film and Thought
 
 * Translation from French to English
+  
+* The Body (Comparative Studies)
+
+* Ethics and Experience: Literature, Thought, and Visual Culture of the French-speaking world
 
 * Moving Image outside the Cinema (Master's)
 
