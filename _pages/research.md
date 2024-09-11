@@ -5,15 +5,14 @@ title: Research
 description: 
 years: [2024, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 ## Current book projects
 
 ### The Seduction of Space: Cruising French cinema
 
-
-![alt text](assets/img/publication_previous/seduction.png "TheSeduction of Space")
+ image: seduction.png
 
 *forthcoming with University of Minnesota Press on 11 March 2025*
 
@@ -21,8 +20,6 @@ Spatiality has long been a crucial and potent lens for understanding French cult
 Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vincent Dieutre, Alain Guiraudie, and others, _The Seduction of Space_ draws film theory, queer studies, and spatial inquiry into close proximity to examine the politics of cruising and the gendering of space. Making the case that cinema not only documents the queer spaces of the past but continues to produce them, the book maps the relationships between sex and spatiality by taking up such varied topics as public sex in the porn theater, racial eroticization in the banlieue, the ecocritical valences of rural cruising, and the geopolitics of sexuality in an expanded Francophone frame. Foregrounding the crucial role that spatiality plays in shaping the parameters of France’s visual cultures and political imaginary, this study represents both an urgent queer reconceptualization of this tradition and a clarion call for film scholars to tarry with the politics of sexuality in all its messiness. An exercise in reading queer cinematic space, _The Seduction of Space_ offers conceptual interventions that resonate far beyond the book’s immediate national context.
 
 ### Hotels
-
-![image tooltip here](/assets/hotels.png)
 
 *forthcoming with Fordham University Press on 1 April 2025*
 

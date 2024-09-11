@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 In the 2024/2025 academic year, Jules convenes [Cinema and the Political](https://www.mmll.cam.ac.uk/cs7) (a final year undergraduate course on political cinema), [Gender, Sexuality, and Space](https://www.film.cam.ac.uk/mphil/modules/) (an MPhil unit in film studies), and co-teaches [Theorising Moving Images](https://www.film.cam.ac.uk/mphil/core/) (the Core Course for the MPhil in Film and Screen studies) with Dr Kareem Estefan.
