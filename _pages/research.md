@@ -12,7 +12,7 @@ nav_order: 2
 
 ### The Seduction of Space: Cruising French cinema
 
-![Alt text](julesodwyer.github.io/assets/img/seduction1.png "The Seduction of Space")
+![The Seduction of Space](/seduction1.png)
 
 *forthcoming with University of Minnesota Press on 11 March 2025*
 
@@ -21,7 +21,7 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 
 ### Hotels
 
-![Alt text](julesodwyer.github.io/assets/img/hotels1.png "Hotels")
+![Hotels](hotels1.png)
 
 *forthcoming with Fordham University Press on 1 April 2025*
 
