@@ -25,11 +25,7 @@ From the Chateau Marmont to Marienbad, and from the Bates Motel to the Overlook 
 
 Praise:
 
-<p align="right">
-
 “_Hotels_ ingeniously charts the trajectories of sight and site in the cinematic hotel, that place where the illicit transpires and fantasies are projected. From early silent shorts to the Chelsea Hotel, from Claire Denis to Atom Egoyan to Chantal Akerman, O’Dwyer shows how films and hotels have mutually constituted one another across a shared history. This slim volume offers a new way to imagine both cinema and its spaces.” - B. Ruby Rich, author of _New Queer Cinema: The Director’s Cut_
-
-<p align="left">
 
 ---
 
