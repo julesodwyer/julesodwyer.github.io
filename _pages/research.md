@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-years: [2022, 2021, 2020, 2019, 2018, 2017]
+years: [2024, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: true
 nav_order: 3
 ---
@@ -12,11 +12,25 @@ nav_order: 3
 
 ### The Seduction of Space: Cruising French cinema
 
-Given that France provided an intellectual home to the most influential spatial theorists of the post-1968 generation, and the nation’s identity and frame of geopolitical influence are often expressed with recourse to geometric metaphors (e.g., *L’Hexagone*, *Francosphère*), the country offers a propitious national context in which to explore questions of space and place. Yet while spatiality has long constituted a vital analytic for discussions of politics and aesthetics in French culture, this book argues that it is the country’s queer cinematic production that has gone the furthest in expanding this rich area of inquiry in recent years. *The Seduction of Space* surveys the largely underexplored work of a number of queer filmmakers, including Jacques Nolot, Marie-Claude Treilhou, Sébastien Lifshitz, Vincent Dieutre, Alain Guiraudie, and Abdellah Taïa. It brings these filmmakers’ shared interests in the politics of cruising and the gendering of space into conversation with film theory, queer studies, and cultural geography to propose new ways of understanding cinematic space. By considering topics as varied as the latent eroticism of the porn theater, race and the eroticization of the *banlieue*, and the ecocritical valence of rural cruising, through to the geopolitics of sexuality in an expanded Francophone frame, this study foregrounds the crucial role that spatiality plays in shaping the parameters of France’s political imaginary and its queer visual cultures. An exercise in reading queer cinematic space, *The Seduction of Space* offers conceptual interventions that resonate far beyond the book’s immediate national context.
+<img src="seduction.png">
 
-### Cinema's Hotels
+*title forthcoming with University of Minnesota Press on 11 March 2025*
 
-From the Chateau Marmont to Marienbad, and from the Bates Motel to the Overlook Hotel, the hotels we encounter in the cinema often serve as much more than the mute backdrop against which a film’s action transpires. Rather, hotel spaces actively scaffold the formal, aesthetic, and narrative possibilities of cinema. My current book project considers the parallels between cinema and the hotel--two ‘hyperaesthetic’ spaces that appeal to experiential logics of fantasy, immersion, and aspiration; spaces that mediate our encounters with cultural difference and the world outside. This book reads the hotel as a privileged site for exploring the dynamics and contradictions that structure the modern condition: they are simultaneously public and private, spaces of leisure and labor. Hotel spaces mediate the spatiotemporal registers of the local and the global, historicity and anachronism. Cinema’s Hotels grounds its readings of individual films within broader histories of moving image media. Drawing on a purposefully broad array of cinematic texts—from work by Lila Avilés to Liliana Cavani, and from Andy Warhol to Apichatpong Weeresethakul—I consider both how and why the institution of the hotel holds such a strong purchase in the cinematic imaginary.
+Spatiality has long been a crucial and potent lens for understanding French culture and aesthetics. While canonical greats of French cinema such as Jean-Luc Godard, Agnès Varda, and Louis Malle invoked the notion of flânerie to explore ideas of modernism, spatial exploration, and urban sociality, this book demonstrates how a more recent generation of French queer filmmakers continue to engage with—and contest-this spatial legacy by focusing their attention on the cognate practice of cruising.
+Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vincent Dieutre, Alain Guiraudie, and others, _The Seduction of Space_ draws film theory, queer studies, and spatial inquiry into close proximity to examine the politics of cruising and the gendering of space. Making the case that cinema not only documents the queer spaces of the past but continues to produce them, the book maps the relationships between sex and spatiality by taking up such varied topics as public sex in the porn theater, racial eroticization in the banlieue, the ecocritical valences of rural cruising, and the geopolitics of sexuality in an expanded Francophone frame. Foregrounding the crucial role that spatiality plays in shaping the parameters of France’s visual cultures and political imaginary, this study represents both an urgent queer reconceptualization of this tradition and a clarion call for film scholars to tarry with the politics of sexuality in all its messiness. An exercise in reading queer cinematic space, _The Seduction of Space_ offers conceptual interventions that resonate far beyond the book’s immediate national context.
+
+### Hotels
+
+<img src="hotels.png">
+
+*title forthcoming with Fordham University Press on 1 April 2025*
+
+From the Chateau Marmont to Marienbad, and from the Bates Motel to the Overlook Hotel, the hotels we encounter in the cinema often serve as much more than the mute backdrop against which a film’s action transpires. Rather, hotel spaces actively scaffold the formal, aesthetic, and narrative possibilities of cinema. My current book project considers the parallels between cinema and the hotel--two ‘hyperaesthetic’ spaces that appeal to experiential logics of fantasy, immersion, and aspiration; spaces that mediate our encounters with cultural difference and the world outside. This book reads the hotel as a privileged site for exploring the dynamics and contradictions that structure the modern condition: they are simultaneously public and private, spaces of leisure and labor. Hotel spaces mediate the spatiotemporal registers of the local and the global, historicity and anachronism. _Hotels_ grounds readings of individual films within broader histories of moving image media. Drawing on a purposefully broad array of cinematic texts—from work by Lila Avilés to Liliana Cavani, and from Andy Warhol to Apichatpong Weeresethakul—I consider both how and why the institution of the hotel holds such a strong purchase in the cinematic imaginary.
+
+Praise:
+
+“_Hotels_ ingeniously charts the trajectories of sight and site in the cinematic hotel, that place where the illicit transpires and fantasies are projected. From early silent shorts to the Chelsea Hotel, from Claire Denis to Atom Egoyan to Chantal Akerman, O’Dwyer shows how films and hotels have mutually constituted one another across a shared history. This slim volume offers a new way to imagine both cinema and its spaces.” - B. Ruby Rich, author of _New Queer Cinema: The Director’s Cut_
+
 
 ---
 
