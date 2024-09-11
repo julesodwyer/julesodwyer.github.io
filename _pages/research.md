@@ -12,8 +12,6 @@ nav_order: 2
 
 ### The Seduction of Space: Cruising French cinema
 
-
-
 *forthcoming with University of Minnesota Press on 11 March 2025*
 
 Spatiality has long been a crucial and potent lens for understanding French culture and aesthetics. While canonical greats of French cinema such as Jean-Luc Godard, Agnès Varda, and Louis Malle invoked the notion of flânerie to explore ideas of modernism, spatial exploration, and urban sociality, this book demonstrates how a more recent generation of French queer filmmakers continue to engage with—and contest-this spatial legacy by focusing their attention on the cognate practice of cruising.
@@ -27,8 +25,11 @@ From the Chateau Marmont to Marienbad, and from the Bates Motel to the Overlook 
 
 Praise:
 
+<p align="right">
+
 “_Hotels_ ingeniously charts the trajectories of sight and site in the cinematic hotel, that place where the illicit transpires and fantasies are projected. From early silent shorts to the Chelsea Hotel, from Claire Denis to Atom Egoyan to Chantal Akerman, O’Dwyer shows how films and hotels have mutually constituted one another across a shared history. This slim volume offers a new way to imagine both cinema and its spaces.” - B. Ruby Rich, author of _New Queer Cinema: The Director’s Cut_
 
+<p align="left">
 
 ---
 
