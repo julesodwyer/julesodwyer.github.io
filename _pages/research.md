@@ -12,6 +12,9 @@ nav_order: 2
 
 ### The Seduction of Space: Cruising French cinema
 
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 *forthcoming with University of Minnesota Press on 11 March 2025*
 
 Spatiality has long been a crucial and potent lens for understanding French culture and aesthetics. While canonical greats of French cinema such as Jean-Luc Godard, Agnès Varda, and Louis Malle invoked the notion of flânerie to explore ideas of modernism, spatial exploration, and urban sociality, this book demonstrates how a more recent generation of French queer filmmakers continue to engage with—and contest-this spatial legacy by focusing their attention on the cognate practice of cruising.
