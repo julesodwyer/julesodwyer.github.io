@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /events_talks/
-title: Events and Talks
+permalink: /talks/
+title: Events & Talks
 description:
 nav: true
 nav_order: 3
