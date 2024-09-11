@@ -1,17 +1,15 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Events and Talks
 description:
 nav: true
 nav_order: 4
 ---
 
-Events
-
 Over the last few of years, Jules has helped organize events—both scholarly and public facing—in collaboration with the Cambridge Picturehouse Cinema, the Institute for Cultural Inquiry in Berlin, and the National Gallery in London.
 
-He also enjoys hosting discussions with film scholars, including [Rosalind Galt](https://newbooksnetwork.com/alluring-monsters), [Karen Redrobe and Jeff Schieble](https://newbooksnetwork.com/deep-mediations), and Jean-Thomas Tremblay and Steven Swarbrick, about their recent publications for the New Books in Film podcast.
+He also enjoys hosting discussions with film scholars for the [New Books in Film](https://newbooksnetwork.com/hosts/profile/3701215f-f53f-4002-9548-ea6672e12f05) podcast.
 
 Jules has recently given a number of talks related to his work, including:
 
