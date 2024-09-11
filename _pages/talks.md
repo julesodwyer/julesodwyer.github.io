@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /talks/
+permalink: /events_talks/
 title: Events and Talks
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 Over the last few of years, Jules has helped organize events—both scholarly and public facing—in collaboration with the Cambridge Picturehouse Cinema, the Institute for Cultural Inquiry in Berlin, and the National Gallery in London.
