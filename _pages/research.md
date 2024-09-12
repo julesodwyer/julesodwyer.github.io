@@ -12,7 +12,7 @@ nav_order: 2
 
 ## The Seduction of Space: Cruising French cinema
 
-![Image]({{ site.baseurl }}/assets/img/seduction22.png)
+![Image]({{ site.baseurl }}/assets/img/seduction22.png){: width="250" }
 
 *forthcoming with University of Minnesota Press on 11 March 2025*
 
