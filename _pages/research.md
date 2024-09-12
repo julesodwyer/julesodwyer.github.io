@@ -12,7 +12,7 @@ nav_order: 2
 
 ## The Seduction of Space: Cruising French cinema
 
-![Image]({{ site.baseurl }}/assets/img/seductionn22.png)
+![Image]({{ site.baseurl }}/assets/img/seduction22.png)
 
 *forthcoming with University of Minnesota Press on 11 March 2025*
 
@@ -23,11 +23,11 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 
 ## Hotels
 
-![Image]({{ site.baseurl }}/assets/img/hotelss22.png)
+![Image]({{ site.baseurl }}/assets/img/hotels22.png)
 
 *forthcoming with Fordham University Press on 1 April 2025*
 
-From the Chateau Marmont to Marienbad, and from the Bates Motel to the Overlook Hotel, the hotels we encounter in the cinema often serve as much more than the mute backdrop against which a film’s action transpires. Rather, hotel spaces actively scaffold the formal, aesthetic, and narrative possibilities of cinema. My current book project considers the parallels between cinema and the hotel--two ‘hyperaesthetic’ spaces that appeal to experiential logics of fantasy, immersion, and aspiration; spaces that mediate our encounters with cultural difference and the world outside. This book reads the hotel as a privileged site for exploring the dynamics and contradictions that structure the modern condition: they are simultaneously public and private, spaces of leisure and labor. Hotel spaces mediate the spatiotemporal registers of the local and the global, historicity and anachronism. _Hotels_ grounds readings of individual films within broader histories of moving image media. Drawing on a purposefully broad array of cinematic texts—from work by Lila Avilés to Liliana Cavani, and from Andy Warhol to Apichatpong Weerasethakul—I consider both how and why the institution of the hotel holds such a strong purchase in the cinematic imaginary.
+From the Chateau Marmont to Marienbad, and from the Bates Motel to the Overlook Hotel, the hotels we encounter in the cinema often serve as much more than the mute backdrop against which a film’s action transpires. Rather, hotel spaces actively scaffold the formal, aesthetic, and narrative possibilities of cinema. My current book project considers the parallels between cinema and the hotel--two ‘hyperaesthetic’ spaces that appeal to experiential logics of fantasy, immersion, and aspiration; spaces that mediate our encounters with cultural difference and the world outside. This book reads the hotel as a privileged site for exploring the dynamics and contradictions that structure the modern condition: they are simultaneously public and private, spaces of leisure and labor. Hotel spaces mediate the spatiotemporal registers of the local and the global, historicity and anachronism. _Hotels_ grounds readings of individual films within broader histories of moving image media. Drawing on a purposefully broad array of cinematic texts—from work by Lila Avilés to Liliana Cavani, and from Andy Warhol to Apichatpong Weerasethakul—I consider both how and why the institution of the hotel holds such a strong purchase on the cinematic imaginary.
 
 Praise:
 
