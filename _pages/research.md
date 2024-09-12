@@ -8,7 +8,9 @@ nav: true
 nav_order: 2
 ---
 
-# The Seduction of Space: Cruising French cinema
+# Books
+
+## The Seduction of Space: Cruising French cinema
 
 ![Image]({{ site.baseurl }}/assets/img/seduction2.png)
 
@@ -19,7 +21,7 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 
 <br>
 
-# Hotels
+## Hotels
 
 ![Image]({{ site.baseurl }}/assets/img/hotels2.png)
 
