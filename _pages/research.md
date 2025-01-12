@@ -21,9 +21,9 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 
 ### Praise:
 
-"_The Seduction of Space_ is brilliantly conceived and fills a clear gap in the field of queer French film studies, namely the priority of sexuality and its links to questions of space and spatiality, relationality, and queer visual cultures more broadly. Stylishly and intelligently written, energetically argued, and eminently readable, this is sophisticated critical work of the highest order and an invaluable contribution to queer film theory and queer critical studies." — David A. Gerstner, City University of New York
+"_The Seduction of Space_ is brilliantly conceived and fills a clear gap in the field of queer French film studies, namely the priority of sexuality and its links to questions of space and spatiality, relationality, and queer visual cultures more broadly. Stylishly and intelligently written, energetically argued, and eminently readable, this is sophisticated critical work of the highest order and an invaluable contribution to queer film theory and queer critical studies." ### — David A. Gerstner, City University of New York
 
-"Recalling and twisting to perverse effect the title of Henri Lefebvre’s landmark work on the production of space, Jules O’Dwyer’s magnificent _The Seduction of Space_ explores the role of queer sexual desire in the production of spatial relations. O’Dwyer engages intimately with French queer film culture to produce a pioneering book that interweaves French cinema, film theory, queer studies, and spatial thought." — Sarah Cooper, King's College London
+"Recalling and twisting to perverse effect the title of Henri Lefebvre’s landmark work on the production of space, Jules O’Dwyer’s magnificent _The Seduction of Space_ explores the role of queer sexual desire in the production of spatial relations. O’Dwyer engages intimately with French queer film culture to produce a pioneering book that interweaves French cinema, film theory, queer studies, and spatial thought." ### — Sarah Cooper, King's College London
 
 <br>
 
@@ -37,7 +37,7 @@ From the Chateau Marmont to Marienbad, and from the Bates Motel to the Overlook 
 
 ### Praise:
 
-“_Hotels_ ingeniously charts the trajectories of sight and site in the cinematic hotel, that place where the illicit transpires and fantasies are projected. From early silent shorts to the Chelsea Hotel, from Claire Denis to Atom Egoyan to Chantal Akerman, O’Dwyer shows how films and hotels have mutually constituted one another across a shared history. This slim volume offers a new way to imagine both cinema and its spaces.” - B. Ruby Rich, author of _New Queer Cinema: The Director’s Cut_
+“_Hotels_ ingeniously charts the trajectories of sight and site in the cinematic hotel, that place where the illicit transpires and fantasies are projected. From early silent shorts to the Chelsea Hotel, from Claire Denis to Atom Egoyan to Chantal Akerman, O’Dwyer shows how films and hotels have mutually constituted one another across a shared history. This slim volume offers a new way to imagine both cinema and its spaces.” ### - B. Ruby Rich, author of _New Queer Cinema: The Director’s Cut_
 
 ---
 
