@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Over the last few of years, Jules has helped organise events—both scholarly and public facing—in collaboration with the Cambridge Picturehouse Cinema, the Institute for Cultural Inquiry in Berlin, and the National Gallery in London.
+Over the last few years, Jules has helped organise events—both scholarly and public facing—in collaboration with the Cambridge Picturehouse Cinema, the Institute for Cultural Inquiry in Berlin, and the National Gallery in London.
 
 He also enjoys hosting discussions with film scholars for the [New Books in Film](https://newbooksnetwork.com/hosts/profile/3701215f-f53f-4002-9548-ea6672e12f05) podcast.
 
