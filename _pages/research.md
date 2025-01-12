@@ -10,7 +10,7 @@ nav_order: 2
 
 # Books
 
-## The Seduction of Space: Cruising French cinema
+## The Seduction of Space: Cruising French Cinema
 
 ![Image]({{ site.baseurl }}/assets/img/seduction22.png){: width="490" }
 
