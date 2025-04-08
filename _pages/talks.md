@@ -7,11 +7,15 @@ nav: true
 nav_order: 4
 ---
 
-Over the last few years, Jules has helped organise events—both scholarly and public facing—in collaboration with the Cambridge Picturehouse Cinema, the Institute for Cultural Inquiry in Berlin, and the National Gallery in London.
+Over the last few years, Jules has helped organise events—both scholarly and public facing—in collaboration with the Arts Picturehouse Cinema (Cambridge), The Garden Cinema (London), the National Gallery, London, and the Institute for Cultural Inquiry (Berlin).
 
 He also enjoys hosting discussions with film scholars for the [New Books in Film](https://newbooksnetwork.com/hosts/profile/3701215f-f53f-4002-9548-ea6672e12f05) podcast.
 
-Jules has recently given a number of talks related to his work, including:
+His upcoming research will be presented at Screen Conference (Glasgow, UK); A Symposium on Karim Aïnouz (Cambridge(; and a CRASSH workshop on Sexual Ecologies (Cambridge, UK)
+
+His recent past talks and presentations include:
+
+* 'The Seduction of Space in French Cinema and Thought', Film and Screen Research Seminar, University of Cambridge,UK (March 2025)
 
 * 'Hotel Labour in the Service of the Cinematic Image’, British Academy of Film and Screen Studies conference, University of Sussex, UK (April 2024)
 
