@@ -33,7 +33,7 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 
 ![Image]({{ site.baseurl }}/assets/img/hotels22.png){: width="490" }
 
-*Published by Fordham University Press, 2025*
+*Published by Fordham University Press, 2025*<br>
 *Second volume in Cutaways Series, eds. Erika Balsom and Genevieve Yue*
 
 Order here: [UK](https://www.hive.co.uk/Product/Jules-ODwyer/Hotels/31035534) / [USA](https://www.barnesandnoble.com/w/hotels-jules-odwyer/1146117494;jsessionid=CCE2F8F09922B58A904174E3130581C0.prodny_store01-atgap17?ean=9781531509651)
