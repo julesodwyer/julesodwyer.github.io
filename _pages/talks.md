@@ -11,11 +11,13 @@ Over the last few years, Jules has helped organise events—both scholarly and p
 
 He also enjoys hosting discussions with film scholars for the [New Books in Film](https://newbooksnetwork.com/hosts/profile/3701215f-f53f-4002-9548-ea6672e12f05) podcast.
 
-He is currently working on talks that will be presented at Screen Conference (Glasgow, UK); Filmmaker in Residence Symposium on Karim Aïnouz (Cambridge); and a CRASSH workshop on Sexual Ecologies (Cambridge, UK) in 2025.
-
 His recent talks and presentations include:
 
-* 'The Seduction of Space in French Cinema and Thought', Film and Screen Research Seminar, University of Cambridge,UK (March 2025)
+* 'Cinéfiliation, transtextual ambivalence, and paternal returns in Marcello Mio,' 33rd Screen Studies Conference, University of Glasgow, UK (June 2025)
+
+* 'If These Walls Could Talk: Motel Destino’s erotic thresholds,' A Symposium on the Work of Karim Aïnouz, Cambridge, UK (coauthored with Geoffrey Maguire) (June 2025)
+
+* 'The Seduction of Space in French Cinema and Thought', Film and Screen Research Seminar, University of Cambridge, UK (March 2025)
 
 * 'Hotel Labour in the Service of the Cinematic Image’, British Academy of Film and Screen Studies conference, University of Sussex, UK (April 2024)
 
