@@ -7,13 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-Over the last few years, Jules has helped organise events—both scholarly and public facing—in collaboration with the Arts Picturehouse Cinema (Cambridge), The Garden Cinema (London), the National Gallery, London, and the Institute for Cultural Inquiry (Berlin).
+Over the last few years, I've organised events—both scholarly and public facing—in collaboration with the Arts Picturehouse Cinema (Cambridge), The Garden Cinema (London), the National Gallery, London, and the Institute for Cultural Inquiry (Berlin).
 
-He also enjoys hosting discussions with film scholars for the [New Books in Film](https://newbooksnetwork.com/hosts/profile/3701215f-f53f-4002-9548-ea6672e12f05) podcast.
+I also enjoy hosting discussions with film scholars for the [New Books in Film](https://newbooksnetwork.com/hosts/profile/3701215f-f53f-4002-9548-ea6672e12f05) podcast.
 
-His recent talks and presentations include:
+Some recent talks and presentations include:
 
-* 'Cinéfiliation, transtextual ambivalence, and paternal returns in Marcello Mio,' 33rd Screen Studies Conference, University of Glasgow, UK (June 2025)
+* 'Cinéfiliation, transtextual ambivalence, and paternal returns in _Marcello Mio_,' 33rd Screen Studies Conference, University of Glasgow, UK (June 2025)
 
 * 'If These Walls Could Talk: Motel Destino’s erotic thresholds,' A Symposium on the Work of Karim Aïnouz, Cambridge, UK (coauthored with Geoffrey Maguire) (June 2025)
 
