@@ -42,4 +42,3 @@ Translation from French to English (UG)
 Introduction to European Cinema (UG)
 Moving Image outside the Cinema (PG)
 Queer Cinema: Theories, Aesthetics, Politics (PG)
-<img width="451" height="697" alt="image" src="https://github.com/user-attachments/assets/eb0495c7-8508-4a54-abee-cc8a2a70e649" />
