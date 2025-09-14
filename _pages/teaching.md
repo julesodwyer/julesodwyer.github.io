@@ -47,7 +47,7 @@ With two fellow graduate students in 2019, I set up an optional Critical Theory 
 In addition to this, I have run a core postgraduate course on film theory titled [Theorising Moving Images](https://web.archive.org/web/20250604190814/https://www.film.cam.ac.uk/mphil/core/) with Dr Kareem Estefan, convened a final year undergraduate course titled [Cinema and the Political](https://www.mmll.cam.ac.uk/cs7), and delivered lectures and seminars for the following courses:
 
 * Introduction to French Literature, Linguistics, Film and Thought (UG)
-* FR12: Ethics and experience: literature, thought, and visual culture of the French-speaking world (1900 to the present (UG)
+* Ethics and experience: literature, thought, and visual culture of the French-speaking world (1900 to the present (UG)
 * Translation from French to English (UG) 
 * Introduction to European Cinema (UG)
 * Moving Image outside the Cinema (PG)
