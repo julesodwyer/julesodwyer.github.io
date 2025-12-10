@@ -27,7 +27,7 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 
 "Recalling and twisting to perverse effect the title of Henri Lefebvre’s landmark work on the production of space, Jules O’Dwyer’s magnificent _The Seduction of Space_ explores the role of queer sexual desire in the production of spatial relations. O’Dwyer engages intimately with French queer film culture to produce a pioneering book that interweaves French cinema, film theory, queer studies, and spatial thought." — Sarah Cooper, King's College London
 
-"The allure and pleasure that distinguish Barthes's understanding of la drague as a hermeneutic trope, alluded to in O'Dwyer's final pages, are equally characteristic of The Seduction of Space, which should by every right become a landmark study of cruising not only in French cinema but in queer theory and film theory more generally." — Ian Fleishman in [_French Forum_](https://muse.jhu.edu/pub/56/article/975506)
+"The allure and pleasure that distinguish Barthes's understanding of la drague as a hermeneutic trope, alluded to in O'Dwyer's final pages, are equally characteristic of The Seduction of Space, which should by every right become a landmark study of cruising not only in French cinema but in queer theory and film theory more generally." — Ian Fleishman, [_French Forum_](https://muse.jhu.edu/pub/56/article/975506)
 
 <br>
 
