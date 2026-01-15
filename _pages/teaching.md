@@ -50,5 +50,6 @@ In addition to this, I have run a core postgraduate course on film theory titled
 * Ethics and experience: literature, thought, and visual culture of the French-speaking world (1900 to the present (UG)
 * Translation from French to English (UG) 
 * Introduction to European Cinema (UG)
+* History of Global Cinema (UG)
 * Moving Image outside the Cinema (PG)
 * Queer Cinema: Theories, Aesthetics, Politics (PG)
