@@ -8,9 +8,9 @@ nav_order: 4
 ---
 
 Over the last few years, I've organised events—both scholarly and public facing—in collaboration with the Arts Picturehouse Cinema (Cambridge), The Garden Cinema (London), the National Gallery, London, and the Institute for Cultural Inquiry (Berlin).
-
 I also enjoy hosting discussions with film scholars for the [New Books in Film](https://newbooksnetwork.com/hosts/profile/3701215f-f53f-4002-9548-ea6672e12f05) podcast.
 
+In early 2026, I am giving invited talks at the University of Leeds' Centre for World Cinemas and Digital Cultures, and at the University of Glasgow's Research Seminar series.
 Some recent talks and presentations include:
 
 * 'Cinéfiliation, transtextual ambivalence, and paternal returns in _Marcello Mio_,' 33rd Screen Studies Conference, University of Glasgow, UK (June 2025)
