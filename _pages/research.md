@@ -23,9 +23,9 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 
 ### Praise:
 
-"_The Seduction of Space_ should by every right become a landmark study of cruising not only in French cinema but in queer theory and film theory more generally." — Ian Fleishman, University of Pennsylvania [_French Forum_](https://muse.jhu.edu/pub/56/article/975506)
+"_The Seduction of Space_ should by every right become a landmark study of cruising not only in French cinema but in queer theory and film theory more generally." — Ian Fleishman, [_French Forum_](https://muse.jhu.edu/pub/56/article/975506)
 
-"_The Seduction of Space_ is an excellent example of interdisciplinary work of the highest quality, the kind that manages to be essential reading within all the fields in which it intervenes." — Ty Blakeney, Northwestern University [_French Studies_](https://www.liverpooluniversitypress.co.uk/doi/10.3828/fs.2026.80.2.41))
+"_The Seduction of Space_ is an excellent example of interdisciplinary work of the highest quality, the kind that manages to be essential reading within all the fields in which it intervenes." — Ty Blakeney, [_French Studies_](https://www.liverpooluniversitypress.co.uk/doi/10.3828/fs.2026.80.2.41)
 
 "_The Seduction of Space_ is brilliantly conceived and fills a clear gap in the field of queer French film studies, namely the priority of sexuality and its links to questions of space and spatiality, relationality, and queer visual cultures more broadly. Stylishly and intelligently written, energetically argued, and eminently readable, this is sophisticated critical work of the highest order and an invaluable contribution to queer film theory and queer critical studies." — David A. Gerstner, City University of New York
 
