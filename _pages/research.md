@@ -16,6 +16,8 @@ nav_order: 2
 
 *Published by University of Minnesota Press, 2025*
 
+[Winner of 2026 BAFTSS First Monograph Prize](https://www.baftss.org/winners-pub-2026-298884.html)
+
 Order here: [UK](https://www.hive.co.uk/Product/Jules-ODwyer/The-Seduction-of-Space--Cruising-French-Cinema/31160174) / [USA](https://cdcshoppingcart.uchicago.edu/Cart2/Cart?ISBN=9781517916848&PRESS=minnesota)
 
 Spatiality has long been a crucial and potent lens for understanding French culture and aesthetics. While canonical filmmakers like Jean-Luc Godard, Agnès Varda, and Louis Malle invoked the notion of flânerie to explore ideas of modernism, spatial exploration, and urban sociality, this book demonstrates how a more recent generation of French queer filmmakers continue to engage with—and contest-this spatial legacy by focusing their attention on the cognate practice of cruising.
@@ -26,6 +28,8 @@ Through the work of Jacques Nolot, Sébastien Lifshitz, Christophe Honoré, Vinc
 "_The Seduction of Space_ should by every right become a landmark study of cruising not only in French cinema but in queer theory and film theory more generally." — Ian Fleishman, [_French Forum_](https://muse.jhu.edu/pub/56/article/975506)
 
 "An excellent example of interdisciplinary work of the highest quality, the kind that manages to be essential reading within all the fields in which it intervenes." — Ty Blakeney, [_French Studies_](https://www.liverpooluniversitypress.co.uk/doi/10.3828/fs.2026.80.2.41)
+
+"This study brings French queer film studies into view in an entertaining writing style, even with its complex network of theories. It balances intellectual rigour with clarity and engagement and provides a useful intervention to thinkings of queer space and cinema." - *British Association of Film, Television and Screen Studies*
 
 "_The Seduction of Space_ is brilliantly conceived and fills a clear gap in the field of queer French film studies, namely the priority of sexuality and its links to questions of space and spatiality, relationality, and queer visual cultures more broadly. Stylishly and intelligently written, energetically argued, and eminently readable, this is sophisticated critical work of the highest order and an invaluable contribution to queer film theory and queer critical studies." — David A. Gerstner, City University of New York
 
